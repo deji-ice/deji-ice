@@ -2,6 +2,8 @@
 
 I'm Ayodeji, I’m currently working on a Spotify Menu web app :)
 
+NextJS & React enthusiast 🚀 | Open-source advocate | Lifelong learner | Let's connect and collaborate! 🌟
+
 <!--
 **deji-ice/deji-ice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
