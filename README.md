@@ -4,6 +4,8 @@ I'm Ayodeji, I’m currently working on a Spotify Menu web app :)
 
 NextJS, React & Nodejs enthusiast 🚀 | Open-source advocate | Lifelong learner | Let's connect and collaborate! 🌟
 
+[![wakatime](https://wakatime.com/badge/user/3589adb5-11d7-4b54-8163-e15a7b21a91c.svg?style=for-the-badge)](https://wakatime.com/@3589adb5-11d7-4b54-8163-e15a7b21a91c)
+
 <!--
 **deji-ice/deji-ice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
