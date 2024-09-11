@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ayodeji, I’m currently working on a Spotify Menu web app :)
+gbewa
 
 NextJS, React & Nodejs enthusiast 🚀 | Open-source advocate | Lifelong learner | Let's connect and collaborate! 🌟
 
