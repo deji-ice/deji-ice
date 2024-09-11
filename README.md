@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-gbewa
+gbe ise wa
 
 NextJS, React & Nodejs enthusiast 🚀 | Open-source advocate | Lifelong learner | Let's connect and collaborate! 🌟
 
