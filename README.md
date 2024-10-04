@@ -2,7 +2,9 @@
 
 gbe ise wa
 
-NextJS, React & Nodejs enthusiast 🚀 | Open-source advocate | Lifelong learner | Let's connect and collaborate! 🌟
+I'm a **NextJS, React & Node.js enthusiast** 🚀, **Open-source advocate**, and **Tech Educator** passionate about building impactful solutions. I enjoy teaching, collaborating, and contributing to the open-source community. I'm also a big fan of **Tailwind CSS** for crafting sleek and responsive UIs! ✨
+
+Let's connect and work together to create something amazing! 🌟
 
 [![wakatime](https://wakatime.com/badge/user/3589adb5-11d7-4b54-8163-e15a7b21a91c.svg?style=for-the-badge)](https://wakatime.com/@3589adb5-11d7-4b54-8163-e15a7b21a91c)
 
