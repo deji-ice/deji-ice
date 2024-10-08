@@ -8,6 +8,7 @@ Let's connect and work together to create something amazing! 🌟
 
 [![wakatime](https://wakatime.com/badge/user/3589adb5-11d7-4b54-8163-e15a7b21a91c.svg?style=for-the-badge)](https://wakatime.com/@3589adb5-11d7-4b54-8163-e15a7b21a91c)
 
+[![An image of @dejiice's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dejiice)](https://holopin.io/@dejiice)
 <!--
 **deji-ice/deji-ice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
