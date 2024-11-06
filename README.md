@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-gbe ise wa
-
 I'm a **NextJS, React & Node.js enthusiast** 🚀, **Open-source advocate**, and **Tech Educator** passionate about building impactful solutions. I enjoy teaching, collaborating, and contributing to the open-source community. I'm also a big fan of **Tailwind CSS** for crafting sleek and responsive UIs! ✨
 
 Let's connect and work together to create something amazing! 🌟
